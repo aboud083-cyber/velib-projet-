@@ -1,0 +1,13 @@
+{
+  "source": "VelibDB.velib_collection.json",
+  "lignes_source": 1517,
+  "stations_chargees": 1517,
+  "lignes_rejetees": 0,
+  "stations_ouvertes_a_la_location": 1496,
+  "velos_dans_les_stations_ouvertes": 18155,
+  "observations_non_bloquantes": {
+    "date_1970_non_exploitable": 1517,
+    "capacite_inferieure_aux_velos_plus_places": 16
+  },
+  "note": "Export statique. Le champ duedate ne constitue pas un horodatage fiable."
+}
